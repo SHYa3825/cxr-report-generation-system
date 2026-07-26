@@ -1,0 +1,419 @@
+{
+  "Atelectasis": {
+    "definition": [
+      "Atelectasis is defined as diminished volume affecting all or part of a lung.",
+      "It is a partial or complete collapse of the entire lung or a specific area, or lobe, of the lung (collapsed lung).",
+      "Atelectasis occurs when the alveoli (small air sacs) within the lung become deflated or fill with alveolar fluid.",
+      "The primary cause of acute or chronic atelectasis is bronchial obstruction by plugs of tenacious sputum; foreign bodies; endobronchial tumors; or tumors, a lymph node, or an aneurysm compressing the bronchi and causing bronchial distortion.",
+      "Several types of atelectasis exist; each has a characteristic radiographic pattern and etiology."
+    ],
+    "xray_key_findings": [
+      "Chest radiographs may demonstrate direct and indirect signs of lobar collapse.",
+      "Direct signs include displacement of fissures and opacification of the collapsed lobe.",
+      "Indirect signs include displacement of the hilum, mediastinal shift toward the side of collapse, loss of volume on ipsilateral hemithorax, elevation of ipsilateral diaphragm, crowding of the ribs, compensatory hyperlucency of the remaining lobes, and silhouetting of the diaphragm or the heart border.",
+      "Complete collapse of a lung leads to opacification of the entire hemithorax and an ipsilateral shift of the mediastinum; the mediastinal shift separates atelectasis from massive pleural effusion.",
+      "With right upper lobe (RUL) collapse, the collapsed RUL shifts medially and superiorly, resulting in elevation of the right hilum and the minor fissure.",
+      "Rarely, the RUL may collapse laterally, producing a masslike opacity that may look like a loculated pleural effusion.",
+      "The minor fissure in RUL collapse is usually convex superiorly but may appear concave because of an underlying mass lesion.",
+      "Tenting of the diaphragmatic pleura juxtaphrenic peak is another helpful sign of RUL atelectasis.",
+      "Right middle lobe (RML) collapse obscures the right heart border on a posteroanterior (PA) film.",
+      "Occasionally, a triangular opacity may be observed.",
+      "The lateral view demonstrates a triangular opacity overlying the heart because the major fissure shifts upward and the minor fissure shifts downward.",
+      "In right lower lobe (RLL) collapse, the collapsed RLL shifts posteriorly and inferiorly.",
+      "A triangular opacity obscuring the RLL pulmonary artery may be observed.",
+      "The major fissure, which normally is not visible, is seen with RLL collapse.",
+      "The superior mediastinal structure shifts to the right, causing a superior triangle sign.",
+      "Laterally, the collapsed RLL blurs the posterior third of the right hemidiaphragm.",
+      "Concomitant RML and RLL atelectasis may appear as an elevated right hemidiaphragm or a subpulmonic effusion.",
+      "In left upper lobe (LUL) collapse, an atelectatic LUL shifts anteriorly and superiorly.",
+      "In half the cases, a hyperexpanded superior segment of the left lower lobe (LLL) is positioned between the atelectatic upper lobe and the aortic arch.",
+      "On lateral views, the major fissure is displaced anteriorly and the hyperexpanded RUL may herniate across the midline.",
+      "On PA views, an atelectatic LUL produces a faint opacity in the left upper hemithorax, obliterating the left heart border.",
+      "In left lower lobe (LLL) collapse, increased retrocardiac opacity silhouettes the LLL pulmonary artery and the left hemidiaphragm on frontal views.",
+      "The hilum shifts downward, and the rotation of the heart produces flattening of the cardiac waist.",
+      "The superior mediastinum may shift and obliterate the aortic arch.",
+      "On lateral radiographs, opacity makes the posterior third of the left diaphragm indistinct.",
+      "Rounded atelectasis is a segmental or subsegmental atelectasis that occurs secondary to visceral pleural thickening and entrapment of lung tissue.",
+      "Rounded atelectasis is usually located in the lower lobes, the lingula, or the RML.",
+      "On chest radiographs, rounded atelectasis manifests as a subpleural mass, with bronchovascular structures projecting out of the mass toward the hilum.",
+      "An associated parietal pleural plaque may be present."
+    ],
+    "named_radiology_signs": [
+      "Golden S sign — the minor fissure in RUL collapse appears concave because of an underlying mass lesion; this sign resembles a reverse S shape and is created by a central mass obstructing the RUL bronchus; should raise suspicion for primary bronchogenic carcinoma, enlarged lymph nodes, or metastatic disease.",
+      "Juxtaphrenic peak sign — tenting of the diaphragmatic pleura; a helpful sign of RUL atelectasis.",
+      "Superior triangle sign — in RLL collapse, the superior mediastinal structure shifts to the right.",
+      "Luft Sichel sign — in LUL collapse, a hyperexpanded superior segment of the LLL is positioned between the atelectatic upper lobe and the aortic arch, giving the appearance of a crescent of aerated lung.",
+      "Flat-waist sign — in LLL collapse, the rotation of the heart produces flattening of the cardiac waist.",
+      "Aortic-knob sign — in LLL collapse, the superior mediastinum may shift and obliterate the aortic arch.",
+      "Comet-tail sign — in rounded atelectasis, the swirl appearance of bronchovascular shadows projecting out of the subpleural mass toward the hilum."
+    ],
+    "typical_location": [
+      "RUL collapse: right paratracheal region.",
+      "RML collapse: right heart border on PA film; triangular opacity overlying the heart on lateral view.",
+      "RLL collapse: posterior and inferior.",
+      "LUL collapse: left upper hemithorax, anteriorly and superiorly.",
+      "LLL collapse: retrocardiac, posterior inferior.",
+      "Rounded atelectasis: usually located in the lower lobes, the lingula, or the RML."
+    ],
+    "source": "Medscape — https://emedicine.medscape.com/article/296468-overview"
+  },
+  "Cardiomegaly": {
+    "definition": [
+      "Cardiomegaly means enlargement of the heart.",
+      "The definition is when the transverse diameter of the cardiac silhouette is greater than or equal to 50% of the transverse diameter of the chest (increased cardiothoracic ratio) on a posterior-anterior projection of a chest radiograph.",
+      "It should not be confused with an enlargement of the cardiomediastinal outline.",
+      "It may involve enlargement of the right, left, or ventricles or the atria."
+    ],
+    "xray_key_findings": [
+      "A chest X-ray with an enlarged cardiac silhouette and a cardiothoracic ratio of more than 50% suggests cardiomegaly.",
+      "Right ventricle (RV) enlargement produces an upward deviation of the left apical margin.",
+      "Left ventricle enlargement leads to a leftward displacement of the left heart border.",
+      "Right atrial (RA) enlargement increases the right heart border convexity.",
+      "Left atrial enlargement and its extension to the right leads to a double density sign.",
+      "In heart failure, cephalization of the pulmonary vessels, Kerley B-lines, pulmonary edema, and pleural effusions are present."
+    ],
+    "named_radiology_signs": [
+      "Cardiothoracic ratio > 50% — transverse diameter of the cardiac silhouette is greater than or equal to 50% of the transverse diameter of the chest on a posterior-anterior projection.",
+      "Double density sign — left atrial enlargement and its extension to the right leads to a double density sign.",
+      "Cephalization of pulmonary vessels — in heart failure, upper lobe pulmonary vessels appear more prominent than lower lobe vessels.",
+      "Kerley B-lines — present in heart failure associated with cardiomegaly."
+    ],
+    "typical_location": [
+      "Central — cardiac silhouette in the mediastinum.",
+      "RV enlargement: upward deviation of the left apical margin.",
+      "LV enlargement: leftward displacement of the left heart border.",
+      "RA enlargement: increased right heart border convexity.",
+      "LA enlargement: double density sign on the right side."
+    ],
+    "source": "NIH/NCBI — https://www.ncbi.nlm.nih.gov/books/NBK545739/"
+  },
+  "Consolidation": {
+    "definition": [
+      "Airspace consolidation is defined as replacement of gas within the airspaces by fluid, protein, cells, or other material.",
+      "Consolidation is characterized on radiographs by the presence of one or more fairly homogeneous opacities associated with obscuration of the pulmonary vessels and little or no loss of volume.",
+      "The differential diagnosis should consider the various substances that may fill the airspaces, namely, water (e.g., edema), blood (e.g., pulmonary hemorrhage), pus (e.g., pneumonia), cells (e.g., adenocarcinoma, lymphoma, organizing pneumonia), fat (e.g., lipoid pneumonia), or protein (e.g., alveolar proteinosis)."
+    ],
+    "xray_key_findings": [
+      "The margins of the consolidation are usually poorly defined except where the consolidation abuts the pleura, such as a fissure.",
+      "The poor definition of the margins results from partial filling of the airspaces as the consolidation spreads to involve adjacent normal lung.",
+      "Air-containing bronchi (air bronchograms) are frequently visible within the consolidation.",
+      "Air bronchograms may not be seen if there is complete bronchial obstruction or filling of the bronchi with blood or inflammatory secretions and pus.",
+      "When the consolidation is situated in any portion of lung adjacent to a mediastinal or diaphragmatic border, that border can no longer be seen radiographically — this is known as the silhouette sign.",
+      "Consolidation may be focal, patchy, or distributed widely throughout both lungs.",
+      "Segmental consolidation with or without associated volume loss typically results from endobronchial obstruction or from pulmonary infarction.",
+      "Lobar (nonsegmental) consolidation is most commonly due to pneumonia, typically secondary to Streptococcus pneumoniae or Klebsiella pneumoniae, in which case it is associated with air bronchograms.",
+      "Lobar expansion results in convexity of the interlobar fissure — the bulging fissure sign.",
+      "Multifocal consolidation is most commonly due to viral, bacterial, or fungal bronchopneumonia.",
+      "In hydrostatic pulmonary edema the consolidation tends to involve mainly the perihilar regions (known as a butterfly or batwing distribution) and is commonly associated with thickening of the interlobular septa (septal lines) and cardiomegaly.",
+      "Round areas of consolidation may occur in pneumonia (round pneumonia), septic embolism, focal organizing pneumonia, atelectasis, and neoplasms.",
+      "Organizing pneumonia is most frequently manifested as patchy nonsegmental unilateral or bilateral areas of consolidation that tends to be most extensive in the peripheral lung regions."
+    ],
+    "named_radiology_signs": [
+      "Air bronchogram sign — air-containing bronchi visible within the consolidation; frequently seen in airspace consolidation.",
+      "Silhouette sign — obscuration of the silhouette of the heart, aorta, or diaphragm by an adjacent opacity; most useful in differentiating middle lobe and lingular disease from lower lobe disease.",
+      "Bulging fissure sign — convexity of the interlobar fissure resulting from lobar expansion; characteristic of lobar consolidation with expansion, commonly seen in Klebsiella pneumoniae.",
+      "Butterfly or batwing distribution — perihilar consolidation seen in hydrostatic pulmonary edema, associated with septal lines and cardiomegaly.",
+      "Round pneumonia — spherical area of consolidation occurring in pneumonia; occurs much more frequently in children than in adults."
+    ],
+    "typical_location": [
+      "Focal consolidation: segmental or lobar distribution; occasionally involves an entire lobe or lung.",
+      "Multifocal consolidation: unilateral or bilateral; common in bronchopneumonia.",
+      "Hydrostatic pulmonary edema consolidation: predominantly perihilar — butterfly or batwing distribution.",
+      "Organizing pneumonia: peripheral lung regions, patchy nonsegmental unilateral or bilateral.",
+      "Lobar consolidation: most commonly due to pneumonia; any lobe depending on the causative organism."
+    ],
+    "source": "Muller's Imaging of the Chest — https://radiologykey.com/consolidation-4/"
+  },
+  "Edema": {
+    "definition": [
+      "Pulmonary edema can be defined as an abnormal accumulation of extravascular fluid in the lung parenchyma.",
+      "Its etiology is either due to a cardiogenic process with the inability to remove sufficient blood away from the pulmonary circulation or non-cardiogenic precipitated by injury to the lung parenchyma.",
+      "Two main types are cardiogenic and noncardiogenic pulmonary edema."
+    ],
+    "xray_key_findings": [
+      "Cardiogenic pulmonary edema is characterized by the presence of central edema, pleural effusions, Kerley B septal lines, peribronchial cuffing, and enlarged heart size.",
+      "In noncardiogenic etiologies, the edema pattern is typically patchy and peripheral that can demonstrate the presence of ground-glass opacities and consolidations with air bronchograms.",
+      "Pleural effusions are more commonly seen in the cardiogenic type."
+    ],
+    "named_radiology_signs": [
+      "Kerley B septal lines — present in cardiogenic pulmonary edema; represent fluid in the interlobular septa.",
+      "Peribronchial cuffing — present in cardiogenic pulmonary edema; represents fluid accumulation around the bronchi.",
+      "Ground-glass opacities with air bronchograms — present in noncardiogenic pulmonary edema with patchy peripheral distribution."
+    ],
+    "typical_location": [
+      "Cardiogenic pulmonary edema: central distribution.",
+      "Noncardiogenic pulmonary edema: patchy and peripheral distribution."
+    ],
+    "source": "NIH/NCBI — https://www.ncbi.nlm.nih.gov/books/NBK557611/"
+  },
+  "Effusion": {
+    "definition": [
+      "A pleural effusion is collection of fluid abnormally present in the pleural space, usually resulting from excess fluid production and/or decreased lymphatic absorption.",
+      "It is the most common manifestation of pleural disease, and its causes occupy a spectrum ranging from cardiopulmonary disorders with systemic inflammatory conditions to malignancy."
+    ],
+    "xray_key_findings": [
+      "Effusions larger than about 200 mL are usually apparent as blunting of the costophrenic angle on upright posteroanterior (PA) chest radiographs.",
+      "On supine chest radiographs, moderate-to-large pleural effusions may appear as a homogenous increase in density spread over the lower lung fields.",
+      "Apparent elevation of the hemidiaphragm, lateral displacement of the dome of the diaphragm, or increased distance between the apparent left hemidiaphragm and the gastric air bubble suggests subpulmonic effusions.",
+      "Layering of an effusion on lateral decubitus films defines a freely flowing effusion and, if the layering fluid is 1 cm thick, indicates an effusion larger than 200 mL that is amenable to thoracocentesis.",
+      "Failure of an effusion to layer on lateral decubitus films indicates the presence of loculated pleural fluid or some other etiology causing the increased pleural density."
+    ],
+    "named_radiology_signs": [
+      "Costophrenic angle blunting — effusions larger than about 200 mL are usually apparent as blunting of the costophrenic angle on upright PA chest radiographs.",
+      "Subpulmonic effusion sign — apparent elevation of the hemidiaphragm, lateral displacement of the dome of the diaphragm, or increased distance between the apparent left hemidiaphragm and the gastric air bubble.",
+      "Layering sign on lateral decubitus — layering of an effusion on lateral decubitus films defines a freely flowing effusion."
+    ],
+    "typical_location": [
+      "Pleural space; most apparent at the costophrenic angles on upright PA radiographs.",
+      "Lower lung fields on supine radiographs as a homogenous increase in density.",
+      "Subpulmonic location when fluid accumulates beneath the lung.",
+      "Bilateral in heart failure; unilateral in malignancy or parapneumonic effusion."
+    ],
+    "source": "Medscape — https://emedicine.medscape.com/article/299959-overview"
+  },
+  "Emphysema": {
+    "definition": [
+      "Emphysema is pathologically defined as an abnormal permanent enlargement of air spaces distal to the terminal bronchioles, accompanied by the destruction of alveolar walls and without obvious fibrosis.",
+      "Emphysema and chronic bronchitis/bronchiolitis are airflow-limited states contained within the disease known as chronic obstructive pulmonary disease (COPD)."
+    ],
+    "xray_key_findings": [
+      "Frontal and lateral chest radiographs reveal signs of hyperinflation: flattening ('coving') of diaphragms, increased retrosternal air space (visible on lateral chest films), and a long, narrow heart shadow.",
+      "Rapidly tapering vascular shadows accompanied by hyperlucency of the lungs are signs of emphysema.",
+      "When the condition is complicated by pulmonary hypertension, the hilar vascular shadows become prominent.",
+      "Right ventricular enlargement and an opacity in the lower retrosternal air space may also occur when complicated by pulmonary hypertension."
+    ],
+    "named_radiology_signs": [
+      "Flattening of diaphragms — 'coving' of diaphragms on frontal and lateral chest radiographs indicating hyperinflation.",
+      "Increased retrosternal air space — visible on lateral chest films as a sign of hyperinflation.",
+      "Long narrow heart shadow — a sign of hyperinflation seen on frontal chest radiographs.",
+      "Hyperlucency of the lungs — accompanied by rapidly tapering vascular shadows as a sign of emphysema."
+    ],
+    "typical_location": [
+      "Bilateral lung fields with hyperinflation signs.",
+      "Retrosternal air space increased on lateral view."
+    ],
+    "source": "Medscape — https://emedicine.medscape.com/article/298283-overview"
+  },
+  "Fibrosis": {
+    "definition": [
+      "Pulmonary fibrosis is the permanent replacement of lung parenchyma by connective tissue, typically associated with functional impairment.",
+      "Idiopathic pulmonary fibrosis (IPF) is defined as a specific form of chronic, progressive fibrosing interstitial pneumonia of unknown cause, primarily occurring in older adults, limited to the lungs, and associated with the histopathologic and/or radiologic pattern of usual interstitial pneumonia (UIP).",
+      "A chest radiograph typically reveals diffuse reticular opacities, however, it lacks diagnostic specificity."
+    ],
+    "xray_key_findings": [
+      "Virtually all patients with idiopathic pulmonary fibrosis (IPF) have an abnormal chest radiograph at the time of diagnosis.",
+      "The typical findings are peripheral reticular opacities (netlike linear and curvilinear densities) predominantly at the lung bases.",
+      "Honeycombing (coarse reticular pattern) and lower lobe volume loss can also be seen."
+    ],
+    "named_radiology_signs": [
+      "Peripheral reticular opacities — netlike linear and curvilinear densities predominantly at the lung bases; the typical chest radiograph finding in pulmonary fibrosis.",
+      "Honeycombing — coarse reticular pattern visible on chest radiograph representing advanced fibrotic change.",
+      "Lower lobe volume loss — reduction in lung volume at the bases associated with fibrosis."
+    ],
+    "typical_location": [
+      "Peripheral distribution, predominantly at the lung bases.",
+      "Bilateral involvement with lower lobe predominance."
+    ],
+    "source": "Medscape — https://emedicine.medscape.com/article/301226-overview"
+  },
+  "Hernia": {
+    "definition": [
+      "Diaphragmatic hernia is a condition in which intra-abdominal contents herniate into the thoracic cavity via a defect in the diaphragm.",
+      "The defect may be congenital or acquired (eg, as a consequence of blunt or, less often, penetrating trauma).",
+      "Left-side defects account for 80-85% of cases and right-side defects for 10-15%; bilateral defects are rare, accounting for only 1-2% of cases.",
+      "The majority (90%) of defects are posterolateral and are referred to as Bochdalek hernias.",
+      "The remaining 10% are anteromedial and are referred to as Morgagni hernias."
+    ],
+    "xray_key_findings": [
+      "Findings include loops of bowel in the chest, a mediastinal shift, a paucity of bowel gas in the abdomen, and the presence of the tip of a nasogastric tube in the thoracic stomach.",
+      "Right-side lesions are difficult to differentiate from diaphragmatic eventration and lobar consolidation.",
+      "Findings indicative of traumatic diaphragmatic rupture on chest radiography include abdominal contents located in the thorax.",
+      "Nasogastric tube seen in the thorax is a finding indicative of traumatic diaphragmatic rupture.",
+      "Elevated hemidiaphragm (>4 cm higher on the left than on the right) is a finding indicative of traumatic diaphragmatic rupture.",
+      "Distorted diaphragmatic margin is a finding indicative of traumatic diaphragmatic rupture."
+    ],
+    "named_radiology_signs": [
+      "Intrathoracic bowel loops — loops of bowel visible in the chest cavity on chest radiograph; key finding in congenital diaphragmatic hernia.",
+      "Mediastinal shift — shift of mediastinal structures away from the herniated side due to mass effect of herniated abdominal contents.",
+      "Nasogastric tube in thorax — presence of the tip of a nasogastric tube in the thoracic stomach; confirmatory sign of gastric herniation.",
+      "Elevated hemidiaphragm — elevation >4 cm higher on the left than on the right; indicative of traumatic diaphragmatic rupture.",
+      "Distorted diaphragmatic margin — loss of normal diaphragmatic contour on chest radiograph indicating diaphragmatic rupture."
+    ],
+    "typical_location": [
+      "Left-sided in 80-85% of congenital cases; right-sided in 10-15%.",
+      "Bochdalek hernia: posterolateral defect; accounts for 90% of congenital diaphragmatic hernias.",
+      "Morgagni hernia: anteromedial defect; accounts for 10% of congenital diaphragmatic hernias.",
+      "Acquired/traumatic hernia: any location depending on site of diaphragmatic rupture."
+    ],
+    "source": "Medscape — https://emedicine.medscape.com/article/934824-overview"
+  },
+  "Infiltration": {
+    "definition": [
+      "The term pulmonary infiltrate is considered a context-dependent, non-specific and imprecise descriptive term when used in radiology reports.",
+      "From a pathophysiological perspective, the term 'infiltrate' refers to 'an abnormal substance that accumulates gradually within cells or body tissues' or 'any substance or type of cell that occurs within or spreads as through the interstices (interstitium and/or alveoli) of the lung, that is foreign to the lung, or that accumulates in greater than normal quantity within it'.",
+      "While when used with a better anatomic reference, such as alveolar, air space, interstitial, or nodular, it may occasionally be helpful in suggesting an underlying pathologic basis for the findings on the radiograph, the use of the term in general is discouraged."
+    ],
+    "xray_key_findings": [
+      "Pulmonary infiltrate refers to any increased opacity on chest radiograph representing abnormal material within the interstitium and/or alveoli of the lung.",
+      "When qualified as alveolar infiltrate, it suggests airspace filling with fluid, pus, blood, or cells.",
+      "When qualified as interstitial infiltrate, it suggests thickening of the lung interstitium by fluid, fibrosis, or cellular infiltration.",
+      "When qualified as nodular infiltrate, it suggests the presence of multiple small nodular opacities throughout the lung parenchyma."
+    ],
+    "named_radiology_signs": [
+      "Alveolar infiltrate — increased opacity suggesting airspace filling; associated with consolidation pattern.",
+      "Interstitial infiltrate — increased opacity suggesting interstitial thickening; associated with reticular or reticulonodular pattern.",
+      "Nodular infiltrate — increased opacity in a nodular distribution throughout the lung parenchyma."
+    ],
+    "typical_location": [
+      "Variable — location depends on the underlying pathological process."
+    ],
+    "source": "Radiopaedia — https://radiopaedia.org/articles/pulmonary-infiltrate"
+  },
+  "Mass": {
+    "definition": [
+      "A solitary pulmonary nodule is defined as a discrete, well-marginated, rounded opacity less than or equal to 3 cm in diameter that is completely surrounded by lung parenchyma, does not touch the hilum or mediastinum, and is not associated with adenopathy, atelectasis, or pleural effusion.",
+      "Lesions larger than 3 cm are considered masses and are treated as malignancies until proven otherwise.",
+      "A lesion greater than 4 cm in diameter is very likely a bronchogenic carcinoma, although exceptions include lung abscess, Wegener's granulomatosis, lymphoma, round pneumonia, rounded atelectasis, and hydatid cyst."
+    ],
+    "xray_key_findings": [
+      "Chest radiographs can provide information regarding size, shape, cavitation, growth rate, and calcification pattern.",
+      "A very irregular edge or corona radiata (numerous strands radiating into the surrounding lung) may indicate a bronchogenic carcinoma.",
+      "Lobulation and notching may indicate bronchogenic carcinoma; a well-defined, smooth, nonlobulated edge may indicate a benign lesion or metastasis.",
+      "Cavitation with a thin, smooth wall may indicate lung abscess or a benign lesion, whereas thick-walled cavitations imply an underlying malignant neoplasm.",
+      "Certain patterns of calcification are considered to be benign; the five patterns usually observed in benign lesions are diffuse, central, laminar, concentric, and popcorn.",
+      "Stippled and eccentric calcification patterns are more suspicious for malignancy and require follow up.",
+      "The presence of air bronchograms within the solitary pulmonary nodule makes bronchogenic carcinoma or metastasis unlikely."
+    ],
+    "named_radiology_signs": [
+      "Corona radiata — numerous strands radiating into the surrounding lung from the mass; may indicate bronchogenic carcinoma.",
+      "Popcorn calcification — calcification pattern observed in benign lesions, particularly hamartoma.",
+      "Thick-walled cavitation — cavitation with thick, irregular walls implying an underlying malignant neoplasm.",
+      "Thin-walled cavitation — cavitation with thin, smooth wall may indicate lung abscess or a benign lesion."
+    ],
+    "typical_location": [
+      "Masses greater than 3 cm are treated as malignancies until proven otherwise; no specific lobar predominance.",
+      "Upper lobe predominance is common for bronchogenic carcinoma."
+    ],
+    "source": "Medscape — https://emedicine.medscape.com/article/2139920-overview"
+  },
+  "Nodule": {
+    "definition": [
+      "A solitary pulmonary nodule is defined as a discrete, well-marginated, rounded opacity less than or equal to 3 cm in diameter that is completely surrounded by lung parenchyma, does not touch the hilum or mediastinum, and is not associated with adenopathy, atelectasis, or pleural effusion.",
+      "Most solitary pulmonary nodules are benign; however, they may represent an early stage of lung cancer.",
+      "Generally, a pulmonary nodule must reach 1 cm in diameter before it can be identified on a chest radiograph."
+    ],
+    "xray_key_findings": [
+      "Chest radiographs can provide information regarding size, shape, cavitation, growth rate, and calcification pattern.",
+      "Although nodules of 5 mm in diameter are occasionally visualized on chest radiographs, solitary pulmonary nodules are quite often 8-10 mm in diameter.",
+      "Certain patterns of calcification are considered to be benign; the five patterns usually observed in benign lesions are diffuse, central, laminar, concentric, and popcorn.",
+      "Stippled and eccentric calcification patterns are more suspicious for malignancy and require follow up.",
+      "A very irregular edge or corona radiata (numerous strands radiating into the surrounding lung) may indicate a bronchogenic carcinoma.",
+      "A well-defined, smooth, nonlobulated edge may indicate a benign lesion or metastasis.",
+      "Cavitation with a thin, smooth wall may indicate lung abscess or a benign lesion, whereas thick-walled cavitations imply an underlying malignant neoplasm.",
+      "The presence of air bronchograms within the solitary pulmonary nodule makes bronchogenic carcinoma or metastasis unlikely.",
+      "Nodules that are attached to pleura, vessels, or fissures are likely to be benign.",
+      "If a nodule remains the same size for 2 years, it is very likely benign."
+    ],
+    "named_radiology_signs": [
+      "Corona radiata — numerous strands radiating into the surrounding lung from the nodule; may indicate bronchogenic carcinoma.",
+      "Popcorn calcification — calcification pattern observed in benign lesions, particularly hamartoma.",
+      "Thin-walled cavitation — cavitation with thin, smooth wall may indicate lung abscess or a benign lesion.",
+      "Thick-walled cavitation — cavitation with thick, irregular walls implying an underlying malignant neoplasm."
+    ],
+    "typical_location": [
+      "Nodules that are attached to pleura, vessels, or fissures are likely to be benign.",
+      "No specific lobar predominance for benign nodules; upper lobe predominance common for malignant nodules."
+    ],
+    "source": "Medscape — https://emedicine.medscape.com/article/2139920-overview"
+  },
+  "Pleural_Thickening": {
+    "definition": [
+      "Pleural thickening is a common finding on routine chest X-rays.",
+      "It typically involves the apex of the lung, which is called 'pulmonary apical cap'.",
+      "The apical cap is a fibroelastic scar involving the visceral pleura and lung parenchyma at the apex and is occasionally observed in healthy and asymptomatic individuals.",
+      "Pleural thickening may be a manifestation of several pulmonary diseases, including mycobacterial infection, lung cancer, and idiopathic interstitial pneumonia.",
+      "Clinicians must rule out these pathological conditions when evaluating pleural thickening found on a chest X-ray."
+    ],
+    "xray_key_findings": [
+      "On chest X-rays, the apical cap is an irregular density located at the extreme apex and is less than 5 mm in width.",
+      "More than half of the cases were bilateral and 35.7% involved thickening on the right side only.",
+      "Pleuroparenchymal fibroelastosis is a rare form of idiopathic interstitial pneumonia characterized by pleural and subjacent parenchymal fibrosis predominantly in the upper lobes, which may mimic an apical cap."
+    ],
+    "named_radiology_signs": [
+      "Pulmonary apical cap — an irregular density located at the extreme apex of the lung, less than 5 mm in width; the most common manifestation of pleural thickening on chest X-ray.",
+      "Apical cap shadow — unilateral or bilateral apical cap shadows identified on routine chest X-rays; represents fibroelastic scarring of the visceral pleura and lung parenchyma at the apex."
+    ],
+    "typical_location": [
+      "Predominantly at the apex of the lung — apical cap accounted for 92.2% of pleural thickening cases.",
+      "Right lung predominance — bilateral and right-sided cases comprised nearly 90% of all cases."
+    ],
+    "source": "NCBI/PMC — https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6642579/"
+  },
+  "Pneumonia": {
+    "definition": [
+      "Community-acquired pneumonia (CAP) is one of the most common infectious diseases addressed by clinicians and is an important cause of mortality and morbidity worldwide.",
+      "CAP usually is acquired via inhalation or aspiration of a pathogenic organism."
+    ],
+    "xray_key_findings": [
+      "Chest radiographs are essential for all patients with suspected community-acquired pneumonia (CAP) to confirm the presence of infiltrates consistent with CAP and to exclude conditions that mimic it.",
+      "Chest radiography helps differentiate viral from nonviral pneumonias.",
+      "Viral pneumonias often show few or no infiltrates, but when present, infiltrates typically are bilateral, perihilar, symmetric, and interstitial, which can be confused with pulmonary edema.",
+      "Bacterial pneumonias usually exhibit a focal segmental or lobar distribution, occasionally accompanied by pleural effusions.",
+      "Atypical bacterial pathogens display variable radiographic findings, from focal segmental to bilateral interstitial patterns.",
+      "Pneumocystis jiroveci pneumonia (PJP) characteristically presents as bilateral patchy interstitial infiltrates.",
+      "Rapid cavitation is not typical of CAP but is a hallmark of methicillin-resistant S. aureus (CA-MRSA) CAP, which presents as fulminant CAP with rapid cavitation and necrotizing pneumonia.",
+      "Recognition of diverse chest radiographic patterns in CAP, such as subtle bronchopneumonia, interstitial patterns, and round pneumonia, is crucial for diagnosis, though these patterns do not specify infectious agents.",
+      "The presence of pleural fluid and multilobar opacities, which can influence treatment decisions, should be documented.",
+      "Signs such as lymphadenopathy and multiple pulmonary nodules should prompt consideration of alternative diagnoses.",
+      "Tuberculosis should be suspected in patients presenting with atypical, subacute symptoms, particularly when radiographic findings include cavitation or upper lobe opacities."
+    ],
+    "named_radiology_signs": [
+      "Focal segmental or lobar consolidation — the typical radiographic pattern of bacterial pneumonia, occasionally accompanied by pleural effusions.",
+      "Bilateral perihilar symmetric interstitial infiltrates — characteristic of viral pneumonia; can be confused with pulmonary edema.",
+      "Bilateral patchy interstitial infiltrates — characteristically seen in Pneumocystis jiroveci pneumonia (PJP).",
+      "Round pneumonia — a diverse chest radiographic pattern in CAP; crucial for diagnosis.",
+      "Rapid cavitation — hallmark of CA-MRSA CAP presenting as fulminant CAP with necrotizing pneumonia."
+    ],
+    "typical_location": [
+      "Bacterial pneumonia: focal segmental or lobar distribution.",
+      "Viral pneumonia: bilateral, perihilar, symmetric, and interstitial distribution.",
+      "Atypical bacterial pneumonia: variable, from focal segmental to bilateral interstitial patterns.",
+      "Tuberculosis: upper lobe opacities with cavitation.",
+      "CA-MRSA: rapid cavitation with necrotizing pattern."
+    ],
+    "source": "Medscape — https://emedicine.medscape.com/article/234240-overview"
+  },
+  "Pneumothorax": {
+    "definition": [
+      "Pneumothorax is defined as the presence of air or gas in the pleural cavity (ie, the potential space between the visceral and parietal pleura of the lung).",
+      "If the pneumothorax is significant, it can cause a shift of the mediastinum and compromise hemodynamic stability.",
+      "Air can enter the intrapleural space through a communication from the chest wall (ie, trauma) or through the lung parenchyma across the visceral pleura."
+    ],
+    "xray_key_findings": [
+      "The diagnosis of pneumothorax is established by demonstrating the outer margin of the visceral pleura (and lung), known as the pleural line, separated from the parietal pleura (and chest wall) by a lucent gas space devoid of pulmonary vessels.",
+      "The pleural line may be difficult to detect with a small pneumothorax unless high-quality posteroanterior and lateral chest films are obtained and viewed under a bright light.",
+      "A skin fold may mimic the pleural line.",
+      "In erect patients, pleural gas collects over the apex, and the space between the lung and the chest wall is most notable at that point.",
+      "In the supine position, the juxtacardiac area, the lateral chest wall, and the subpulmonic region are the best areas to search for evidence of pneumothorax.",
+      "The presence of a deep costophrenic angle on a supine film may be the only sign of pneumothorax; this has been termed the deep sulcus sign.",
+      "When a suggested pneumothorax is not definitively observed on an inspiratory film, an expiratory film may be helpful.",
+      "At end expiration, the constant volume of the pneumothorax gas is accentuated by the reduction of the hemithorax, and the pneumothorax is recognized more easily.",
+      "The most common radiographic manifestations of tension pneumothorax are mediastinal shift, diaphragmatic depression, and rib cage expansion.",
+      "Any significant degree of displacement of the mediastinum from the midline position on maximum inspiration, as well as any depression of the diaphragm, should be taken as evidence of tension.",
+      "Avascular bullae or thin-walled cysts may be mistaken for a pneumothorax.",
+      "The pleural line caused by a pneumothorax usually is bowed at the center toward the lateral chest wall.",
+      "Unlike in pneumothorax, the inner margins of bullae or cysts usually are concave rather than convex and do not conform exactly to the contours of the costophrenic sulcus."
+    ],
+    "named_radiology_signs": [
+      "Pleural line — the outer margin of the visceral pleura separated from the parietal pleura by a lucent gas space devoid of pulmonary vessels; the key diagnostic sign of pneumothorax.",
+      "Deep sulcus sign — the presence of a deep costophrenic angle on a supine film; may be the only sign of pneumothorax in supine patients.",
+      "Mediastinal shift — displacement of the mediastinum from the midline; the most common radiographic manifestation of tension pneumothorax along with diaphragmatic depression and rib cage expansion."
+    ],
+    "typical_location": [
+      "Erect patients: pleural gas collects over the apex; space between lung and chest wall most notable at that point.",
+      "Supine patients: juxtacardiac area, lateral chest wall, and subpulmonic region are the best areas to search.",
+      "Tension pneumothorax: mediastinal shift away from the affected side with diaphragmatic depression."
+    ],
+    "source": "Medscape — https://emedicine.medscape.com/article/424547-overview"
+  }
+}
